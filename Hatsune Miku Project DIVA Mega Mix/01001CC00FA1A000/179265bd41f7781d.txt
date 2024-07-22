@@ -1,0 +1,9 @@
+[max score in song]
+04000000 4D2B2788 01000000
+
+[Infinite Health]
+04000000 4D2B2784 00000101 
+
+[max vip points]
+04000000 4D2436D8 0098967F 
+
