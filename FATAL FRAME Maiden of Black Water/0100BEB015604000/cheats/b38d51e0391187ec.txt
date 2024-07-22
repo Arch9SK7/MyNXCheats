@@ -1,0 +1,13 @@
+[Restore Code (Use after unchecking any codes below)]
+040A0000 003C9E7C B905718B
+040A0000 003C9E74 510005AB
+
+[999999 Camera Points]
+040A0000 01B3BB18 000F4761 
+
+[Film Goes Up Not Down]
+040A0000 003C9E74 110005AB
+
+[Infinite Film]
+040A0000 003C9E7C D503201F
+
