@@ -57,7 +57,7 @@
 04000000 02054354 3940A101
 04000000 02054374 3940A901
 
-[---Item Codes---]
+[--SectionStart:Item Codes--]
 00000000 00000000 00000000
 
 [Item ++ BD]
@@ -66,7 +66,10 @@
 [Inf Money BD]
 04000000 02ce2e10 52A001E0
 
-[---FPS Codes---]
+[--SectionEnd:Item Codes--]
+00000000 00000000 00000000
+
+[--SectionStart:FPS Codes--]
 00000000 00000000 00000000
 
 [60 FPS]
@@ -79,7 +82,10 @@
 780F0000 00000F14
 640F0000 00000000 00000002
 
-[---Wild Modifier---]
+[--SectionEnd:FPS Codes--]
+00000000 00000000 00000000
+
+[--SectionStart:Wild Modifier--]
 00000000 00000000 00000000
 
 [Shiny Pokemon BD (HOLD L)]
@@ -131,7 +137,10 @@ A4A00400 02C3A93C
 [Enable Spiritomb Tower BD]
 04000000 018b5e34 D2800400
 
-[---Misc---]
+[--SectionEnd:Wild Modifier--]
+00000000 00000000 00000000
+
+[--SectionStart:Misc--]
 00000000 00000000 00000000
 
 [Ignore Evolution Conditions BD]
@@ -199,7 +208,10 @@ A4A00400 02C3A93C
 [Inf Repel BD]       
 04000000 01aebad0 D503201F
 
-[---Battle---]
+[--SectionEnd:Misc--]
+00000000 00000000 00000000
+
+[--SectionStart:Battle--]
 00000000 00000000 00000000
 
 [GOD MODE BD]
@@ -220,7 +232,10 @@ A4A00400 02C3A93C
 04000000 020378d0 2A1F03E0
 04000000 020378d4 D65F03C0
 
-[---Movement---]
+[--SectionEnd:Battle--]
+00000000 00000000 00000000
+
+[--SectionStart:Movement--]
 00000000 00000000 00000000
 
 [x2 Player Speed BD (HOLD B)]
@@ -239,7 +254,10 @@ A4A00400 02C3A93C
 04000000 01da9c88 AA1F03E0
 20000000
 
-[---Underground Codes---]
+[--SectionEnd:Movement--]
+00000000 00000000 00000000
+
+[--SectionStart:Underground Codes--]
 00000000 00000000 00000000
 
 [Unlimited Digging BD]
@@ -258,7 +276,10 @@ A4A00400 02C3A93C
 [Instant Finish Dig {USE ONLY WITH LIGHTSTONE BONUS} BD]   
 04000000 01980f80 52800020
 
-[---Breeding Codes---]
+[--SectionEnd:Underground Codes--]
+00000000 00000000 00000000
+
+[--SectionStart:Breeding Codes--]
 00000000 00000000 00000000
 
 [Instant Egg Hatch BD]
@@ -275,7 +296,10 @@ A4A00400 02C3A93C
 [Allow Pokeball Inheriting from Ditto BD]
 04000000 0204ed20 710002BF
 
-[---Stat/Nature Codes---]
+[--SectionEnd:Breeding Codes--]
+00000000 00000000 00000000
+
+[--SectionStart:Stat/Nature Codes--]
 00000000 00000000 00000000
 
 [Always Adamant Nature Wild Pokemon BD]
@@ -385,3 +409,6 @@ A4A00400 02C3A93C
 04000000 02054334 528003E1
 04000000 02054354 528003E1
 04000000 02054374 528003E1
+
+[--SectionEnd:Stat/Nature Codes--]
+00000000 00000000 00000000

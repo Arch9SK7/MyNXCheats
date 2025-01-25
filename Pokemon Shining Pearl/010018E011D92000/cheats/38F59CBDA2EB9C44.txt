@@ -1,4 +1,4 @@
-[---Item Codes---]
+[--SectionStart:Item Codes--]
 00000000 00000000 00000000
 
 [Item ++ SP (On)]
@@ -13,7 +13,10 @@
 [Inf Money SP (Off)]
 04000000 0237E2F0 B940EC00
 
-[---FPS Codes---]
+[--SectionEnd:Item Codes--]
+00000000 00000000 00000000
+
+[--SectionStart:FPS Codes--]
 00000000 00000000 00000000
 
 [60 FPS]
@@ -26,7 +29,10 @@
 780F0000 00000F14
 640F0000 00000000 00000002
 
-[---Wild Modifier---]
+[--SectionEnd:FPS Codes--]
+00000000 00000000 00000000
+
+[--SectionStart:Wild Modifier--]
 00000000 00000000 00000000
 
 [Shiny Pokemon SP (HOLD L)]
@@ -87,7 +93,10 @@ A4A00400 01AFD52C
 [Enable Spiritomb Tower SP (Off)]
 04000000 01D04D94 2A1303E0
 
-[---Misc---]
+[--SectionEnd:Wild Modifier--]
+00000000 00000000 00000000
+
+[--SectionStart:Misc--]
 00000000 00000000 00000000
 
 [Ignore Evolution Conditions SP (On)]
@@ -209,7 +218,10 @@ A4A00400 01AFD52C
 [Inf Repel SP (Off)]
 04000000 01F54450 4B130108
 
-[---Battle---]
+[--SectionEnd:Misc--]
+00000000 00000000 00000000
+
+[--SectionStart:Battle--]
 00000000 00000000 00000000
 
 [GOD MODE SP (On)]
@@ -240,7 +252,10 @@ A4A00400 01AFD52C
 04000000 02484560 F81D0FF5
 04000000 02484564 A9014FF4
 
-[---Movement---]
+[--SectionEnd:Battle--]
+00000000 00000000 00000000
+
+[--SectionStart:Movement--]
 00000000 00000000 00000000
 
 [x2 Player Speed SP (HOLD B)]
@@ -259,7 +274,10 @@ A4A00400 01AFD52C
 04000000 02212608 AA1F03E0
 20000000
 
-[---Underground Codes---]
+[--SectionEnd:Movement--]
+00000000 00000000 00000000
+
+[--SectionStart:Underground Codes--]
 00000000 00000000 00000000
 
 [Unlimited Digging SP (On)]
@@ -294,7 +312,10 @@ A4A00400 01AFD52C
 [Instant Finish Dig SP (Off)]   
 04000000 01DCFEE0 2A1303E0
 
-[---Breeding Codes---]
+[--SectionEnd:Underground Codes--]
+00000000 00000000 00000000
+
+[--SectionStart:Breeding Codes--]
 00000000 00000000 00000000
 
 [Instant Egg Hatch SP (On)]
@@ -325,7 +346,10 @@ A4A00400 01AFD52C
 [Allow Pokeball Inheriting from Ditto SP (Off)]
 04000000 0249B9B0 710212BF
 
-[---Stat/Nature Codes---]
+[--SectionEnd:Breeding Codes--]
+00000000 00000000 00000000
+
+[--SectionStart:Stat/Nature Codes--]
 00000000 00000000 00000000
 
 [Disable Nature Modifier Cheats SP]
@@ -449,3 +473,6 @@ A4A00400 01AFD52C
 04000000 024A0FE4 528003E1
 04000000 024A1004 528003E1
 20000000
+
+[--SectionEnd:Stat/Nature Codes--]
+00000000 00000000 00000000
