@@ -334,44 +334,44 @@
 [♯43a Show All Korok Seed Locations (Must Zoom In)★]
 040A0000 020F74F8 1400002E
 
-[♯43b Map locations All Shrine And Roots★]
+[♯43b Show all All Shrine And Roots★]
 040A0000 020F1D44 D503201F
 
-[♯43c Map locations All Skyview Towers★]
+[♯43c Show all All Skyview Towers★]
 040A0000 00742450 D503201F
 
-[♯43d Map locations Tears of the Dragon★]
+[♯43d Show all Tears of the Dragon★]
 040A0000 020F7EAC D503201F
 
-[♯43e Map locations Devil Statue★]
+[♯43e Show all Devil Statue★]
 040A0000 020F98A4 D503201F
 
-[♯43f Map locations All village and Stabble★]
+[♯43f Show all All village and Stabble★]
 040A0000 0074303C 52800028
 
-[♯43g Map locations venue not visited★]
+[♯43g Show all venue not visited★]
 040A0000 020F4CF0 D503201F
 
-[♯43h Map locations caves, Wells And Chasm★]
+[♯43h Show all caves, Wells And Chasm★]
 040A0000 007422A8 D503201F
 040A0000 007422F4 52800028
 
-[♯43i Map locations Great Fairy★]
+[♯43i Show all Great Fairy★]
 040A0000 020F8ED0 D503201F
 
-[♯43j Map locations Lambdas treasure★]
+[♯43j Show all Misko's treasure★]
 040A0000 020F9514 D503201F
 
-[♯43k Map locations old map★]
+[♯43k Show all old map★]
 040A0000 020F89BC D503201F
 
-[♯43l Map locations Five Great Temples★]
+[♯43l Show all Five Great Temples★]
 040A0000 020F2DBC D503201F
 
-[♯43m Map locations All Zonai Device Dispenser★]
+[♯43m Show all All Zonai Device Dispenser★]
 040A0000 020F7A38 D503201F
 
-[♯43n Map locations game field and restaurant★]
+[♯43n Show all game field and restaurant★]
 040A0000 009A8900 D503201F
 
 
