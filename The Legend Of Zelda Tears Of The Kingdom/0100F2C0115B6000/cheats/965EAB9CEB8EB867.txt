@@ -75,7 +75,7 @@
 040A0000 01FCE6F8 1E2E1001
 
 [--SectionStart:Link--]
-00000000 00000000 00000000
+20000000
 
 [♯ 1. NOT WORKING Invincible (Ignore Hits)]
 
@@ -124,10 +124,10 @@
 [♯13. NOT WORKING Ignore Fire & Flame Effects]
 
 [--SectionEnd:Link--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Combat--]
-00000000 00000000 00000000
+20000000
 
 [♯14. Instant Companion Skills (No CDs)★]
 040A0000 004C8B74 1E212020
@@ -163,10 +163,10 @@
 040A0000 024AB974 1E201000
 
 [--SectionEnd:Combat--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Movement--]
-00000000 00000000 00000000
+20000000
 
 [♯20. NOT WORKING Spider-Man Mode (No Falling While Climbing)] 
 
@@ -252,10 +252,10 @@
 20000000
 
 [--SectionEnd:Movement--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Inventory--]
-00000000 00000000 00000000
+20000000
 
 [♯30. Items x999★]
 040A0000 00A2AAD0 52807CE3
@@ -308,10 +308,10 @@
 [♯40. NOT WORKING Ignore Material Requirements for Upgrades (Horse and Armor]
 
 [--SectionEnd:Inventory--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Map--]
-00000000 00000000 00000000
+20000000
 
 [♯41. Show All Shrine and Cave Locations★]
 040A0000 020F1C64 52800020
@@ -376,10 +376,10 @@
 
 
 [--SectionEnd:Map--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Misc--]
-00000000 00000000 00000000
+20000000
 
 [♯44. Remove 21 Zonai Device Spawn Limit★]
 040A0000 01FB0B88 52800028
@@ -483,10 +483,10 @@
 680F01D0 00000438 00000780
 
 [--SectionEnd:Misc--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Environment--]
-00000000 00000000 00000000
+20000000
 
 [♯54. NOT WORKING Brighten World (ON)]
 
@@ -506,4 +506,4 @@
 040A0000 01FCE6F8 1E3E1001
 
 [--SectionEnd:Environment--]
-00000000 00000000 00000000
+20000001

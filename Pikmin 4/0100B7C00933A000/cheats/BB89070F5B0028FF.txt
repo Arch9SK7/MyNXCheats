@@ -45,7 +45,7 @@
 20000000
 
 [--SectionStart:Time Manipulation--]
-00000000 00000000 00000000
+20000000
 
 [№ 1. Reverse Time]
 040A0000 01DDF788 1E203828
@@ -54,10 +54,10 @@
 040A0000 01DDF788 D503201F
 
 [--SectionEnd:Time Manipulation--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Pikmin Effects--]
-00000000 00000000 00000000
+20000000
 
 [№ 3. Red Pikmin Fire Forever]
 080A0000 06171FF8 16DAB2C0 1E212821
@@ -71,10 +71,10 @@
 040A0000 01B3D42C D503201F
 
 [--SectionEnd:Pikmin Effects--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Shopping/Items--]
-00000000 00000000 00000000
+20000000
 
 [№ 6. Max Raw Materials]
 040A0000 01C0D7F4 2B412534
@@ -91,10 +91,10 @@
 080A0000 01B5C120 B9006A89 52800C69
 
 [--SectionEnd:Shopping/Items--]
-00000000 00000000 00000000
+20000001
 
 [--SectionStart:Damage/Other--]
-00000000 00000000 00000000
+20000000
 
 [№10. Player & Oatchi no damage + Lumiknoll]
 040A0000 013E160C D503201F
@@ -130,6 +130,6 @@
 040A0000 01E0529C 150DB34E
 
 [--SectionEnd:Damage/Other--]
-00000000 00000000 00000000
+20000001
 
 [This set of cheats is created by Arch9SK7, enjoy!]

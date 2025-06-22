@@ -1,31 +1,31 @@
 [ACNH Version 1.2.1]
 
 [--SectionStart:Speed/Movement--]
-00000000 00000000 00000000 
+20000000
 
 [--SectionEnd:Speed/Movement--]
-00000000 00000000 00000000 
+20000001
 
 [--SectionStart:Text-to-Cheat--]
-00000000 00000000 00000000 
+20000000
 
 [--SectionEnd:Text-to-Cheat--]
-00000000 00000000 00000000 
+20000001
 
 [--SectionStart:Currency--]
-00000000 00000000 00000000 
+20000000
 
 [--SectionEnd:Currency--]
-00000000 00000000 00000000 
+20000001
 
 [--SectionStart:Animation--]
-00000000 00000000 00000000 
+20000000
 
 [--SectionEnd:Animation--]
-00000000 00000000 00000000 
+20000001
 
 [--SectionStart:Uncategorized--]
-00000000 00000000 00000000 
+20000000
 
 [--SectionEnd:Uncategorized--]
-00000000 00000000 00000000 
+20000001

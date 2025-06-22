@@ -1,7 +1,7 @@
 [ACNH Version 1.4.1]
 
 [--SectionStart:Speed/Movement--]
-00000000 00000000 00000000 
+20000000
 
 [Walk through walls Hold L]
 04000000 00F9FA90 B953F814
@@ -28,22 +28,22 @@
 20000000
 
 [--SectionEnd:Speed/Movement--]
-00000000 00000000 00000000 
+20000001
 
 [--SectionStart:Text-to-Cheat--]
-00000000 00000000 00000000 
+20000000 
 
 [--SectionEnd:Text-to-Cheat--]
-00000000 00000000 00000000 
+20000001
 
 [--SectionStart:Currency--]
-00000000 00000000 00000000 
+20000000 
 
 [--SectionEnd:Currency--]
-00000000 00000000 00000000 
+20000001
 
 [--SectionStart:Animation--]
-00000000 00000000 00000000 
+20000000 
 
 [Instant text speed]
 01100000 0BA1E858 00000003
@@ -61,10 +61,10 @@
 04000000 035A4360 40A00000
 
 [--SectionEnd:Animation--]
-00000000 00000000 00000000 
+20000001
 
 [--SectionStart:Uncategorized--]
-00000000 00000000 00000000 
+20000000 
 
 [Change Island To Northern Hemisphere]
 01100000 AA673AE4 00000000
@@ -96,4 +96,4 @@ A4BC0000
 20000000
 
 [--SectionEnd:Uncategorized--]
-00000000 00000000 00000000 
+20000001
