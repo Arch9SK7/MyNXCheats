@@ -207,5 +207,5 @@
 040B0000 00226308 17F9425F 
 040B0000 0022630C 40933333 
 
-[--SectionEnd:Haunted Castle R--]
+[--SectionEnd:Haunted Castle JP/R--]
 20000001 
