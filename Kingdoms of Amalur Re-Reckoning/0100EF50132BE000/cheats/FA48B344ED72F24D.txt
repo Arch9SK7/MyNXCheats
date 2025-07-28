@@ -2,10 +2,10 @@
 
 {Mastercode}
 580F0000 016BF638 
-580F1000 00000B70 
-580F1000 00000FA0 
+580F1000 00000B58 
+580F1000 00000768 
 580F1000 00000170 
-580F1000 00000058 
+580F1000 000001F8
 
 [Restore code (Use after unchecking any codes below)]
 040A0000 00788170 7200051F 
@@ -21,8 +21,8 @@
 [Damage X31 Original by @Xtatu]
 040A0000 0078A960 1E27F000 
 
-[Max XP (Get kill to instantly level)]
-044F0000 00000388 0098967F 
+[Max XP (Get kill to instantly level)] 
+044F0000 00000338 0098967F 
 
 [Max gold on Change]
 040A0000 008754EC 14043631 
@@ -49,4 +49,4 @@
 040A0000 00982DAC 17F7B3C7 
 
 [Cheats created by OblivionReign]
-20000000 
+20000000
