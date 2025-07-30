@@ -65,7 +65,7 @@
 040A0000 00697474 2A0803E9
 040A0000 006974A4 2A0803E1
 
-No Skill cooldown]
+[No Skill cooldown]
 040A0000 00849008 52800008
 
 [Mana doesn't decrease]
