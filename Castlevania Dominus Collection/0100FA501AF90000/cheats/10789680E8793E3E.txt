@@ -249,7 +249,7 @@
 014A0000 00000912 000000FF
 
 [1st Wep L+UP/L+Left/L+Down]
-20000000
+00000000
 
 [Primary Wep HCJP]
 80002040
@@ -263,7 +263,7 @@
 20000000
 
 [2nd Wep R+Up/R+Right/R+Down/R+Left/L+R]
-20000000
+00000000
 
 [Secondary Wep HCJP]
 80002080
