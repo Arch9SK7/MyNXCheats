@@ -27,7 +27,7 @@ R3+↑/↓ Speed Up/Down
 Enable then look at any dex entry to change spawns
 
 [**Note:№15. Always Encounter Pokemon**]
-Enable then use a species, form, item and or level code to modfiy the spawns
+Enable then use a species, form, item and or level code to modify the spawns
 
 [**Note:№16. Encounter Zygarde**]
 Use with Always Encounter Pokemon
