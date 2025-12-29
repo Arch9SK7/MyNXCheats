@@ -1,0 +1,48 @@
+
+[**Note:№ 2. Max/Inf Money**]
+On spend or gain
+
+[**Note:№ 4. Inf Donut Berry Slots**]
+Can add more than 8 berries
+
+[**Note:№ 5. 50,000 Challenger Tickets**]
+Instantly max tickets on a win
+
+[**Note:№ 6. Max Hyperspace Survey Points**]
+Instant max on task completion Does not work in side quest portals
+
+[**Note:№ 7. Movement Speed x8**]
+Hold ZL to run fast af
+
+[**Note:№ 8. Walk through Walls**]
+Hold R to breach walls
+
+[**Note:№10. Moon Jump**]
+Hold B to float
+
+[**Note:№11. Game Speed**]
+R3+↑/↓ Speed Up/Down
+
+[**Note:№14. Always Encounter Pokedex**]
+Enable then look at any dex entry to change spawns
+
+[**Note:№15. Always Encounter Pokemon**]
+Enable then use a species, form, item and or level code to modfiy the spawns
+
+[**Note:№16. Encounter Zygarde**]
+Use with Always Encounter Pokemon
+
+[**Note:№17. Encounter Zygarde Level 100 10%**]
+Use with Always Encounter Pokemon
+
+[**Note:№18. Encounter Item Masterball**]
+Use with Always Encounter Pokemon
+
+[**Note:№19. Encounter Item Rare Candy**]
+Use with Always Encounter Pokemon
+
+[**Note:№52. Max/Infinite Mega Energy**]
+Change location to refill energy
+
+[**Note:№59. Control Time**]
+ZL+A Fwd / ZL+B Rev
