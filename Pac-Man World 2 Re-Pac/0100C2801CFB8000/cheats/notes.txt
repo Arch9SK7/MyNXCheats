@@ -1,0 +1,31 @@
+[Inf Rings/pacdots]
+This may affect fruits etc in missions
+
+[Moonjump]
+Use ZL+B to Have infinite jump height
+
+[Unlock Magic Key]
+Finish any level to receive the key
+
+[Have 99 Fruit]
+Grab 1 to have 99 
+
+[Wild Sharks ignore player]
+This is for the large black sharks
+
+[Enemies grant 9999 score]
+Kill a baddie for 9999
+
+[All Missions Completed Original by DSRules]
+This is temporary, not permanant
+
+[All outfits Original by DSRules]
+This is temporary, not permanant
+
+[God Mode]
+May make some enemies/bosses unkillable
+Ghosts cannot be killed
+
+[Inf Pac Power]
+This applies to the maze games
+Grab a power up to stay perm
