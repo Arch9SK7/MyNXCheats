@@ -1,0 +1,13 @@
+[№ 1. Inf. Health]
+note=Prevents heart loss.
+
+[№17. Hold (X) Moon Jump]
+note=Pointer based moon jump.
+
+[№31. Inf. Equipment Durability]
+note=Fire will still break it.
+
+
+[Breeze]
+font_size=20
+show_notes=true
