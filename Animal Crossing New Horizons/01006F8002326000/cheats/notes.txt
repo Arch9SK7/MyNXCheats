@@ -1,0 +1,7 @@
+[№ 1. Walk through Walls]
+note=Hold Y to walk through objects.
+
+
+[Breeze]
+font_size=20
+show_notes=true
