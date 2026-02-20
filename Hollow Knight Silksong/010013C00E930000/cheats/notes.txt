@@ -1,6 +1,31 @@
-
 [№ 1. Max Shells]
-Gain huge amount on pickup / No loss on buy
+note=Gain huge amount on pickup / No loss on buy
 
-[№ 8. Moonjump]
-Hold B to ascend
+[№ 4. Max/Inf Silk]
+note=Attack an enemy with needle to instantly fill silk.
+
+[№ 5. Complete All Maps]
+note=Save and quit, then return to see all maps completed.
+
+[№ 6. Max/Infinite All Items]
+note=Gain or lose an item to have 999 of it.
+
+[№ 8. Have All Crests]
+note=Issues may arise when using the bugged ones.
+
+[№ 9. One Hit Kill]
+note=Bosses with full or micro phases will still take a few hits.
+
+[№10. Faster Walk Speed]
+note=This doesnt affect your dashing speed.
+
+[№11. Infinite Air Jump]
+note=Lets you keep jumping.
+
+[№12. Moonjump]
+note=Hold B to ascend. This will crash your game if used inside the Sands of Karak.
+
+
+[Breeze]
+font_size=20
+show_notes=true
