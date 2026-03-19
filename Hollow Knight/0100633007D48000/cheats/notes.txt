@@ -1,0 +1,25 @@
+[№ 1. Max Geo]
+note=Gain huge amount on pickup / No loss on buy
+
+[№ 3. Max/Inf Soul]
+note=Attack an enemy with needle to instantly fill soul.
+
+[№ 4. Complete All Maps]
+note=Save and quit, then return to see all maps completed.
+
+[№ 5. One Hit Kill]
+note=Bosses with full or micro phases will still take a few hits.
+
+[№ 6. Faster Walk Speed]
+note=This doesnt affect your dashing speed.
+
+[№ 7. Moonjump]
+note=Hold B to ascend. This will crash your game if used inside the Sands of Karak.
+
+[№ 8. Walk Through Walls]
+note=Hold ZR to slip past any collision
+
+
+[Breeze]
+font_size=20
+show_notes=true
