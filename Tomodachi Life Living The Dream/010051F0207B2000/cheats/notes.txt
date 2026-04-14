@@ -1,0 +1,14 @@
+[Restore Code]
+note=
+[Infinite Money]
+note=
+[items off]
+note=
+[items2]
+note=
+[99 items on change]
+note=
+[wishes off]
+note=
+[wishes on]
+note=
