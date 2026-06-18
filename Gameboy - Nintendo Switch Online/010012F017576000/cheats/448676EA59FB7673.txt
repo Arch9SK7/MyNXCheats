@@ -16,7 +16,7 @@
 580D0000 01385F50
 580D1000 000000A0
 
-[--SectionStart:Minish Cap--]
+[Minish Cap]
 20000000 
 
 [Max Rupees] 
@@ -185,10 +185,10 @@
 400C0000 00000000 0000117A 
 610C0130 00000000 0000006F 
 
-[--SectionEnd:Minish Cap--]
+[Minish Cap]
 20000001
 
-[--SectionStart:Bomberman Tournament--]
+[Bomberman Tournament]
 20000000 
 
 [Debug Menu]
@@ -213,10 +213,10 @@
 400C0000 00000000 00035194 
 620C0120 00000000 00001414 
 
-[--SectionEnd:Bomberman Tournament--]
+[Bomberman Tournament]
 20000001
 
-[--SectionStart:Bomberman Densetsu--]
+[Bomberman Jetters]
 20000000 
 
 [Debug Menu BJDNB] 
@@ -245,10 +245,10 @@
 780C0000 0000003A
 610C0120 00000000 00000064
 
-[--SectionEnd:Bomberman Densetsu--]
+[Bomberman Jetters]
 20000001
 
-[--SectionStart:Lufia Ruins Of Lore--]
+[Lufia Ruins Of Lore]
 20000000 
 
 [Max Stats]
@@ -267,7 +267,7 @@
 780C0000 00003F52
 620C0130 00000000 0000FF00 
 
-[--SectionEnd:Lufia Ruins Of Lore--]
+[Lufia Ruins Of Lore]
 20000001
 
 [This set of cheats is created by All Credited, enjoy!]
